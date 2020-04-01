@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Assignment1 -o D:/CompArch/Assignment1/Main_CU.tfi -lib work D:/CompArch/Assignment1//Main_CU.v -module Main_CU -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
